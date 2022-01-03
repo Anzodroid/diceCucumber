@@ -2,5 +2,6 @@ eclipse.preferences.version=1
 encoding//src/test/java/StepDefinitions/GoogleSearchSteps.java=UTF-8
 encoding//src/test/java/StepDefinitions/TestRunner.java=UTF-8
 encoding//src/test/java/StepDefinitions/diceRoomSteps.java=UTF-8
+encoding//src/test/java/StepDefinitions/diceRoomSteps_POM.java=UTF-8
 encoding//src/test/resources/features/GoogleSearch.feature=UTF-8
 encoding//src/test/resources/features/diceRoom.feature=UTF-8
